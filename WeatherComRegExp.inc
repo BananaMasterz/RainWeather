@@ -1,7 +1,7 @@
 ; Do NOT change this file unless you are sure you know what you are doing !!!
 ; ========================================================================
 
-; © 2019 by xxenium
+; Â© 2019 by xxenium
 ; Modified by JSMorley
 
 [Variables]
@@ -9,7 +9,7 @@
 
 LocationName=(?siU)(?(?=.*<h1 class="h4 today_nowcard-location").* className="h4 today_nowcard-location">(.*)<span class=".*" className=".*"></span></h1>)
 
-TempUnit=(?siU)<span class="icon icon-font iconset-ui icon-globe" className="icon icon-font iconset-ui icon-globe"></span><span>.*</span><span class="styles__borderLeft__2zhrE">°(.*)</span>
+TempUnit=(?siU)<span class="icon icon-font iconset-ui icon-globe" className="icon icon-font iconset-ui icon-globe"></span><span>.*</span><span class="styles__borderLeft__2zhrE">Â°(.*)</span>
 
 UVText=(?siU)(?(?=.*</script><script charSet="UTF-8">window.i18n=).*"Wind":".*",.*,"UV Index":"(.*)")
 UVValues=(?siU)"vt1observation":(?(?=.*{"altimeter":.*,.*).*"uvIndex":(.*),"uvDescription":"(.*)",.*})
@@ -35,7 +35,7 @@ SevereAlert=(?siU)(?(?=.*<a class="priority bg-alert-.*" href="#LanguagePath#/we
 PriorityAlert=(?siU)(?(?=.*<div class="gm-alerts-time).*"><a class="priority bg-alert-.*" href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*
 
 ALERT=(?siU)(?(?=.*<div id=".*-SevereAlertBar).*-.*"><div><div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*(?(?=.*<a class="priority bg-alert-.*").* href="#LanguagePath#/weather/alerts/localalerts/.* className="priority bg-alert-(.*)">.*<span class="warning-text" className="warning-text">(.*)</span>).*(?(?=.*<span class="timestamp").* className="timestamp">(.*)</span></div>).*
-
+ 
 IconAlert=(?siU)(?(?=.*<div id=".*-SevereAlertBar).*-.*"><div><div>)(?(?=.*<div class="SevereAlertBar" role="banner" aria-label=".*" className="SevereAlertBar">.*<div class="priority bg-alert-.*").* className="priority bg-alert-.*">).*
 
 
@@ -44,7 +44,7 @@ IconAlert=(?siU)(?(?=.*<div id=".*-SevereAlertBar).*-.*"><div><div>)(?(?=.*<div 
 
 
 
-; © 2019 by xxenium
+; Â© 2019 by xxenium
 
 
 
