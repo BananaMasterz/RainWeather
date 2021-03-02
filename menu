@@ -3,463 +3,489 @@
     "categoryName": "Hot Coffees",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Greek Coffee",
-      "product_price": "3,00",
-      "contains": ""
-    },
-    {
-      "product_name": "Greek Coffee Double",
-      "product_price": "3,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Nes Café",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Filter Coffee",
-      "product_price": "2,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Espresso",
-      "product_price": "3,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Espresso Americano",
-      "product_price": "3,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Espresso Doppio",
-      "product_price": "3,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Espresso Macchiato",
-      "product_price": "2,70",
-      "contains":  ""
-    },
-    {
-      "product_name": "Espresso con Panna",
-      "product_price": "2,70",
-      "contains":  ""
-    },
-    {
-      "product_name": "Cappuccino",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Cappuccino Grande",
-      "product_price": "5,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Cappuccino con Panna",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Cappuccino Latte",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Cappuccino Latte with Honey & Cinnamon",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Flat White",
-      "product_price": "4,00",
-      "contains":  ""
-    }
-  ]},
+      {
+        "product_name": "Greek Coffee",
+        "product_price": "3,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Greek Coffee Double",
+        "product_price": "3,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Nes Café",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Filter Coffee",
+        "product_price": "2,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Espresso",
+        "product_price": "3,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Espresso Americano",
+        "product_price": "3,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Espresso Doppio",
+        "product_price": "3,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Espresso Macchiato",
+        "product_price": "2,70",
+        "contains": ""
+      },
+      {
+        "product_name": "Espresso con Panna",
+        "product_price": "2,70",
+        "contains": ""
+      },
+      {
+        "product_name": "Cappuccino",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Cappuccino Grande",
+        "product_price": "5,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Cappuccino con Panna",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Cappuccino Latte",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Cappuccino Latte with Honey & Cinnamon",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Flat White",
+        "product_price": "4,00",
+        "contains": ""
+      }
+    ]
+  },
   {
     "categoryName": "Cold Coffees",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Nes Café Frape",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Frape with Ice cream",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Frape with Baileys",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Espresso Iced",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Espresso Iced con Panna",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Cappuccino Iced",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Cappuccino Iced con Panna",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Espresso Affogato",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Flat Whi te",
-      "product_price": "4,00",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Milk Shakes",
+      {
+        "product_name": "Nes Café Frape",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Frape with Ice cream",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Frape with Baileys",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Espresso Iced",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Espresso Iced con Panna",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Cappuccino Iced",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Cappuccino Iced con Panna",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Espresso Affogato",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Flat Whi te",
+        "product_price": "4,00",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Milk Shakes",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Vanilla, Chocolate, Strawberry, Caramel",
-      "product_price": "6,00",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Water Ice",
+      {
+        "product_name": "Vanilla, Chocolate, Strawberry, Caramel",
+        "product_price": "6,00",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Water Ice",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Banana",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Strawberry",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Mango",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Peach",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "green Apple",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Passion Fruits",
-      "product_price": "5,00",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Tea",
+      {
+        "product_name": "Banana",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Strawberry",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Mango",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Peach",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "green Apple",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Passion Fruits",
+        "product_price": "5,00",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Tea",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Green Tea",
-      "product_price": "3,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Mint",
-      "product_price": "3,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Chamomile",
-      "product_price": "3,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Pure Happiness",
-      "product_price": "3,50",
-      "contains":  "Greek Mountain tea, Lemon balm, Sage, Mint"
-    },
-    {
-      "product_name": "Pure Symmetry",
-      "product_price": "3,50",
-      "contains":  "Mint, Carob, Lemon balm, Sage"
-    },
-    {
-      "product_name": "Pure Youth",
-      "product_price": "3,50",
-      "contains":  "Wild Rose, Greek Mountain tea, Rosemary, Rockrose"
-    }
-  ]},
-{"categoryName": "Chocolate Hot/Cold",
+      {
+        "product_name": "Green Tea",
+        "product_price": "3,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Mint",
+        "product_price": "3,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Chamomile",
+        "product_price": "3,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Pure Happiness",
+        "product_price": "3,50",
+        "contains": "Greek Mountain tea, Lemon balm, Sage, Mint"
+      },
+      {
+        "product_name": "Pure Symmetry",
+        "product_price": "3,50",
+        "contains": "Mint, Carob, Lemon balm, Sage"
+      },
+      {
+        "product_name": "Pure Youth",
+        "product_price": "3,50",
+        "contains": "Wild Rose, Greek Mountain tea, Rosemary, Rockrose"
+      }
+    ]
+  },
+  {
+    "categoryName": "Chocolate Hot/Cold",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Chocolate",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Chocolate with Ice cream",
-      "product_price": "6,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Chocolate Viennois",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "White Chocolate\nwith lemon & nutmeg",
-      "product_price": "4,50",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Fresh Juices",
+      {
+        "product_name": "Chocolate",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Chocolate with Ice cream",
+        "product_price": "6,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Chocolate Viennois",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "White Chocolate\nwith lemon & nutmeg",
+        "product_price": "4,50",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Fresh Juices",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Orange",
-      "product_price": "6,00",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Juices",
+      {
+        "product_name": "Orange",
+        "product_price": "6,00",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Juices",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Orange",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Lemon",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Peach",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Sour Cherry",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Banana",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Pineapple",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Cranberry",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Apple",
-      "product_price": "4,00",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Smoothies",
+      {
+        "product_name": "Orange",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Lemon",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Peach",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Sour Cherry",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Banana",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Pineapple",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Cranberry",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Apple",
+        "product_price": "4,00",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Smoothies",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Banana",
-      "product_price": "5,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Strawberry",
-      "product_price": "5,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Mango",
-      "product_price": "5,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Peach",
-      "product_price": "5,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "green Apple",
-      "product_price": "5,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Passion Fruits",
-      "product_price": "5,50",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "bfresh",
+      {
+        "product_name": "Banana",
+        "product_price": "5,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Strawberry",
+        "product_price": "5,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Mango",
+        "product_price": "5,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Peach",
+        "product_price": "5,50",
+        "contains": ""
+      },
+      {
+        "product_name": "green Apple",
+        "product_price": "5,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Passion Fruits",
+        "product_price": "5,50",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "bfresh",
     "categoryNote": "[Sugar free, with Stevia and Sucralose]",
     "categoryProducts": [
-    {
-      "product_name": "Lemonade with Mastic",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Apple Juice with Chamomile",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Lemonade with Ginger",
-      "product_price": "4,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Pomegranate Juice with green Tea",
-      "product_price": "4,50",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Drinks",
+      {
+        "product_name": "Lemonade with Mastic",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Apple Juice with Chamomile",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Lemonade with Ginger",
+        "product_price": "4,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Pomegranate Juice with green Tea",
+        "product_price": "4,50",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Drinks",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Spirits",
-      "product_price": "6,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Single malt Whisky",
-      "product_price": "7,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Ouzo",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Metaxa 7*",
-      "product_price": "7,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Volcan on the Rocks small batch sweet Aperitivo",
-      "product_price": "5,00",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Beers",
+      {
+        "product_name": "Spirits",
+        "product_price": "6,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Single malt Whisky",
+        "product_price": "7,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Ouzo",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Metaxa 7*",
+        "product_price": "7,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Volcan on the Rocks small batch sweet Aperitivo",
+        "product_price": "5,00",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Beers",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Alfa Draft 300ml",
-      "product_price": "3,50",
-      "contains":  ""
-    },
-    {
-      "product_name": "Volcan 300ml",
-      "product_price": "5,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Strongbow apple cider",
-      "product_price": "4,00",
-      "contains":  ""
-    },
-    {
-      "product_name": "Kopparberg premium Cider with strawberry lime",
-      "product_price": "4,50",
-      "contains":  ""
-    }
-  ]},
-{"categoryName": "Cocktails",
+      {
+        "product_name": "Alfa Draft 300ml",
+        "product_price": "3,50",
+        "contains": ""
+      },
+      {
+        "product_name": "Volcan 300ml",
+        "product_price": "5,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Strongbow apple cider",
+        "product_price": "4,00",
+        "contains": ""
+      },
+      {
+        "product_name": "Kopparberg premium Cider with strawberry lime",
+        "product_price": "4,50",
+        "contains": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "Cocktails",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Mojito",
-      "product_price": "9,00",
-      "contains":  "White Rum, Lime, Sugar, Soda, Mint Leaves"
-    },
-    {
-      "product_name": "Tommy’s Margarita",
-      "product_price": "9,00",
-      "contains":  "Tequila 100% blue Agave, Lime, Agave Sirup"
-    },
-    {
-      "product_name": "Sex on the Beach",
-      "product_price": "9,00",
-      "contains":  "Vodka, Peach Schnapps, Orange Juice, Cranberry Juice"
-    },
-    {
-      "product_name": "Cucumber Martini",
-      "product_price": "9,00",
-      "contains":  "Gin, Lime, Sugar, Cucumber"
-    },
-    {
-      "product_name": "Pink Mojito",
-      "product_price": "9,00",
-      "contains":  "GTequila Reposado, Lime, Mint, Sugar, Cranberry Juice"
-    },
-    {
-      "product_name": "Tropical Caipirinha",
-      "product_price": "9,00",
-      "contains":  "Cachaca, Malibu, Pineapple Juice, Lime, Sugar"
-    },
-    {
-      "product_name": "Long Beach Tea",
-      "product_price": "9,00",
-      "contains":  "Vodka, Gin, white Rum, Triple sec, Lemon, Sugar, Cranberry Juice"
-    },
-    {
-      "product_name": "Pink not Spicy",
-      "product_price": "9,00",
-      "contains":  "Mastic, Rum, Lemon, Pink Pepper, Sugar"
-    },
-    {
-      "product_name": "Red Sunset",
-      "product_price": "9,00",
-      "contains":  "Volcan on the Rocks, aged Rum, Lime, Sugar, sour Cherry Juice"
-    }
-  ]},
-{"categoryName": "Non Alcohol",
+      {
+        "product_name": "Mojito",
+        "product_price": "9,00",
+        "contains": "White Rum, Lime, Sugar, Soda, Mint Leaves"
+      },
+      {
+        "product_name": "Tommy’s Margarita",
+        "product_price": "9,00",
+        "contains": "Tequila 100% blue Agave, Lime, Agave Sirup"
+      },
+      {
+        "product_name": "Sex on the Beach",
+        "product_price": "9,00",
+        "contains": "Vodka, Peach Schnapps, Orange Juice, Cranberry Juice"
+      },
+      {
+        "product_name": "Cucumber Martini",
+        "product_price": "9,00",
+        "contains": "Gin, Lime, Sugar, Cucumber"
+      },
+      {
+        "product_name": "Pink Mojito",
+        "product_price": "9,00",
+        "contains": "GTequila Reposado, Lime, Mint, Sugar, Cranberry Juice"
+      },
+      {
+        "product_name": "Tropical Caipirinha",
+        "product_price": "9,00",
+        "contains": "Cachaca, Malibu, Pineapple Juice, Lime, Sugar"
+      },
+      {
+        "product_name": "Long Beach Tea",
+        "product_price": "9,00",
+        "contains": "Vodka, Gin, white Rum, Triple sec, Lemon, Sugar, Cranberry Juice"
+      },
+      {
+        "product_name": "Pink not Spicy",
+        "product_price": "9,00",
+        "contains": "Mastic, Rum, Lemon, Pink Pepper, Sugar"
+      },
+      {
+        "product_name": "Red Sunset",
+        "product_price": "9,00",
+        "contains": "Volcan on the Rocks, aged Rum, Lime, Sugar, sour Cherry Juice"
+      }
+    ]
+  },
+  {
+    "categoryName": "Non Alcohol",
     "categoryNote": "",
     "categoryProducts": [
-    {
-      "product_name": "Mastiqua Lemonade",
-      "product_price": "6,00",
-      "contains":  "Mastiqua, fresh Lemon Juice, Sugar Syrup"
-    },
-    {
-      "product_name": "Pomegranate Mojito",
-      "product_price": "6,00",
-      "contains":  "Pomegranate, Sugar, Lime, Mint, Sparkling water"
-    },
-    {
-      "product_name": "Grapefruit Cooler",
-      "product_price": "6,00",
-      "contains":  "Grapefruit, Sugar, Lemon, Mint"
-    }
-  ]}
+      {
+        "product_name": "Mastiqua Lemonade",
+        "product_price": "6,00",
+        "contains": "Mastiqua, fresh Lemon Juice, Sugar Syrup"
+      },
+      {
+        "product_name": "Pomegranate Mojito",
+        "product_price": "6,00",
+        "contains": "Pomegranate, Sugar, Lime, Mint, Sparkling water"
+      },
+      {
+        "product_name": "Grapefruit Cooler",
+        "product_price": "6,00",
+        "contains": "Grapefruit, Sugar, Lemon, Mint"
+      }
+    ]
+  }
 ]
